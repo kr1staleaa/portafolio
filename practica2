@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!Aqui va la informacion de la pagina, no el contenido visible>
+        <title> Mi primera pagina- Krystal Elizabeth Arroyave</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="estilos.css">
+        </head>
+        <Body>
+            <!Todo lo que escribas aqui se vera en el navegador>
+            <h1 style="color: #3d405b;">Mi Tarjeta de Presentacion</h1>
+
+            Hola me llamo <b>krystal Elizabeth Arroyave</b>
+            <br>
+            Estudio en la <i> Educativa Sagrada Familia</i>
+            <br>
+            <u>Grado 10-3</u>- Palmira valle del Cauca
+            <h2>Mis Intereses
+                <ul>
+                    <li>La Salud </li>
+                    <li>Mi futuro</li>
+                    <li>El Dinero</li>
+                    <li>Mi Felicidad</li>
+                    <li>Mi Familia</li>
+
+                </ul>
+            </h2>
+            <h2>Cosas que me Gustan
+                <ul>
+                    <li>la salchipapa</li>
+                    <li>los Gatos</li>
+                    <li>Viajar</li>
+                    <li>La ropa</li>
+                    <li>El Maquillaje</li>
+                </ul>
+
+            </h2>
+
+
+        </Body>
+</html>
